@@ -1,0 +1,17 @@
+2023-10-17 18:16:57,305 INFO m.ApplicationManager [ApplicationManager.java:47] Test started on Chrome
+2023-10-17 18:16:57,342 INFO t.TestBase [TestBase.java:28] Started test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,346 INFO t.TestBase [TestBase.java:33] Finished test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,347 INFO t.TestBase [TestBase.java:34] ==============================================================
+2023-10-17 18:16:57,347 INFO t.TestBase [TestBase.java:28] Started test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,349 INFO t.TestBase [TestBase.java:33] Finished test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,350 INFO t.TestBase [TestBase.java:34] ==============================================================
+2023-10-17 18:16:57,351 INFO t.TestBase [TestBase.java:28] Started test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,353 INFO t.TestBase [TestBase.java:33] Finished test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,354 INFO t.TestBase [TestBase.java:34] ==============================================================
+2023-10-17 18:16:57,355 INFO t.TestBase [TestBase.java:28] Started test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,358 INFO t.TestBase [TestBase.java:33] Finished test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,358 INFO t.TestBase [TestBase.java:34] ==============================================================
+2023-10-17 18:16:57,359 INFO t.TestBase [TestBase.java:28] Started test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,363 INFO t.TestBase [TestBase.java:33] Finished test ----> registrationPositiveTestCSV
+2023-10-17 18:16:57,364 INFO t.TestBase [TestBase.java:34] ==============================================================
+2023-10-17 18:16:58,025 INFO m.ApplicationManager [ApplicationManager.java:62] Tests completed

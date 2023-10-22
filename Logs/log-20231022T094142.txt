@@ -1,0 +1,8 @@
+2023-10-22 09:41:44,109 INFO m.ApplicationManager [ApplicationManager.java:45] Test started on Chrome
+2023-10-22 09:41:44,152 INFO t.TestBase [TestBase.java:28] Started test ----> addNewContactPositiveDTO
+2023-10-22 09:41:44,160 INFO t.TestBase [TestBase.java:33] Finished test ----> addNewContactPositiveDTO
+2023-10-22 09:41:44,160 INFO t.TestBase [TestBase.java:34] ==============================================================
+2023-10-22 09:41:44,161 INFO t.TestBase [TestBase.java:28] Started test ----> addNewContactPositiveDTO
+2023-10-22 09:41:44,163 INFO t.TestBase [TestBase.java:33] Finished test ----> addNewContactPositiveDTO
+2023-10-22 09:41:44,165 INFO t.TestBase [TestBase.java:34] ==============================================================
+2023-10-22 09:41:44,860 INFO m.ApplicationManager [ApplicationManager.java:61] Tests completed
